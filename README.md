@@ -31,6 +31,8 @@ Poor time management can result in missed meetings and deadlines or create the a
 
 <img src="assets/images/first.JPG" alt="nothing saved">
 
+
+
 <img src="assets/images/second.JPG" alt="saved info">
 
 ## Motivation
