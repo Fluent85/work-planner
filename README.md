@@ -36,11 +36,13 @@ Currently the application works.
 
 ## Technologies Implemented
 
-HTML 5, CSS, JavaScript, jQuery, Momentjs
+HTML 5, CSS, JavaScript, jQuery, Momentjs, Bootstrap
 
 ## Launch
 
 Just click on the link and view on your favorite browser.
+
+https://fluent85.github.io/work-planner/planner
 
 
 
